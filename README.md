@@ -40,7 +40,7 @@ I'm passionate about bringing people access to what they need with robust and ap
 
 ### ✍️ Recent Blog Posts :
 
-* [How to set up a React and Rails App, using Vite Rails](https://dev.to/angus_bowerbrown_96449f1/how-to-set-up-a-react-and-rails-app-using-vite-rails-1ec5)
+* [Creating an Integrated React and Rails Application with Vite Ruby](https://dev.to/angus_bowerbrown_96449f1/creating-an-integrated-react-and-rails-application-with-vite-ruby-1afd)
 
 * [Stacking Contexts, a personal journey](https://dev.to/angus_bowerbrown_96449f1/stacking-contexts-and-why-you-should-go-deep-on-css-a-personal-journey-ccf)
 
