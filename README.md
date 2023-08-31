@@ -34,10 +34,6 @@ I'm passionate about bringing people access to what they need with robust and ap
 
 #
 
-
-### 📊 Some Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=goose20090&theme=gruvbox&border_radius=4.5)
-
 ### ✍️ Recent Blog Posts :
 
 * [Creating an Integrated React and Rails Application with Vite Ruby](https://dev.to/angus_bowerbrown_96449f1/creating-an-integrated-react-and-rails-application-with-vite-ruby-1afd)
