@@ -2,7 +2,7 @@
 
 **`Creative Collaborator (Software Engineer/Artist)`**
 
-Hey! My name's Angus, I'm a software engineer with a background in arts and hopsitality
+Hey! My name's Angus, I'm a software engineer with a background in arts and hopsitality.
 
 I'm passionate about bringing people access to what they need with robust and appealing tech. I love building user-friendly applications and solving problems with code.
 
@@ -53,4 +53,4 @@ In a career of exploration and experiment, I've worn quite a few hats over the y
   
 From pressured, client-facing roles in hospitality, to running terrarium-building workshops, to starting and running an arts company out of Peckham- I've always loved team-oriented creativity and working as part of a group to solve problems.
 
-Discovering coding and training as a Software Engineer with Flatiron School gave me the perfect set of tools to start exploring that impulse as my career. I love working in teams and collaborating to make something great. If you are looking for a driven, approachable and creative web developer, I would love the opportunity to chat with you further.
+Discovering coding and training as a Software Engineer with Flatiron School gave me the perfect set of tools to start exploring that impulse as my career. I now work at Dentally as a Junior Support Engineer, where I'm inspired every day to contribute to the best possible experience for our users and provide the best care for millions of patients around the world. 
