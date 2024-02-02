@@ -36,8 +36,6 @@ I'm passionate about bringing people access to what they need with robust and ap
 
 ### ✍️ Recent Blog Posts :
 
-* [Creating an Integrated React and Rails Application with Vite Ruby](https://dev.to/angus_bowerbrown_96449f1/creating-an-integrated-react-and-rails-application-with-vite-ruby-1afd)
-
 * [Stacking Contexts, a personal journey](https://dev.to/angus_bowerbrown_96449f1/stacking-contexts-and-why-you-should-go-deep-on-css-a-personal-journey-ccf)
 
 * [Single Responsiblity for Beginners](https://dev.to/angus_bowerbrown_96449f1/single-responsibility-principle-for-beginners-12-1e1f)
