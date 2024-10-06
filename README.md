@@ -41,11 +41,8 @@
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
   
-In a career of exploration and experiment, I've worn quite a few hats over the years!
+In a career of exploration and experiment, I've worn quite a few hats over the years! In one way or another though, I've always been gravitated towards solving puzzles and the special kind of shared creativity that can come about when working in a good team.
 
-  
-From high-pressure, client-facing roles in hospitality, to running terrarium-building workshops, to starting and running an arts company in Peckham- I've always loved team-oriented creativity and working as part of a group to solve problems.
+Software Engineering gave me the set of tools I needed to start exploring those impulses as a career. I now work at Dentally as a Junior Support Engineer, where I'm inspired every day to contribute to the best possible experience for our users and help them deliver the best possible care to our millions of patients around the world.
 
-Software Engineering finally gave me the set of tools I needed to start exploring that impulse as my career. I now work at Dentally as a Junior Support Engineer, where I'm inspired every day to contribute to the best possible experience for our users and help them deliver the best possible care to our millions of patients around the world.
-
-I love Ruby for its syntax and Rails for its conventions. JavaScript is an old (maybe slightly sketchy) friend. Typescript is a new one that I've been enjoying my time with.
+I love Ruby for its syntax and Rails for its conventions. JavaScript is an old (slightly sketchy) friend and Typescript is a new one that I've really been enjoying my time with.
