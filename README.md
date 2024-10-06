@@ -44,6 +44,6 @@
 In a career of exploration and experiment, I've worn quite a few hats over the years!
 
   
-From pressured, client-facing roles in hospitality, to running terrarium-building workshops, to starting and running an arts company out of Peckham- I've always loved team-oriented creativity and working as part of a group to solve problems.
+From high-pressure, client-facing roles in hospitality, to running terrarium-building workshops, to starting and running an arts company in Peckham- I've always loved team-oriented creativity and working as part of a group to solve problems.
 
 Discovering coding and training as a Software Engineer with Flatiron School gave me the perfect set of tools to start exploring that impulse as my career. I now work at Dentally as a Junior Support Engineer, where I'm inspired every day to contribute to the best possible experience for our users and provide the best care for millions of patients around the world. 
