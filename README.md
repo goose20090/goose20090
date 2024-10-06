@@ -43,7 +43,7 @@
   
 In a career of exploration and experiment, I've worn quite a few hats over the years! 
 
-In one way or another though, I've always gravitated towards solving puzzles and the shared creativity that can come about when working in a good team.
+In one way or another though, I've always gravitated towards solving puzzles and the shared creativity that can come about when working in a team.
 
 Software Engineering gave me the set of tools I needed to start exploring those impulses as a career. I now work at Dentally as a Junior Support Engineer, where I'm inspired every day to contribute to the best possible experience for our users and help them deliver the best possible care to our millions of patients around the world.
 
