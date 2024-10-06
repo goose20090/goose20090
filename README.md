@@ -2,10 +2,6 @@
 
 **`Creative Collaborator (Software Engineer/Artist)`**
 
-Hey!
-
-I'm passionate about bringing people access to what they need with robust and appealing tech. I love building user-friendly applications and solving problems with code.
-
 <p align="left">
 <!--       <a href="https://medium.com/@mark.gowen78" target="_blank" rel="noopener noreferrer">
          <img alt="medium" title="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>  -->
