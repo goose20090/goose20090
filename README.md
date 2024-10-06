@@ -2,7 +2,7 @@
 
 **`Creative Collaborator (Software Engineer/Artist)`**
 
-Hey! My name's Angus, I'm a software engineer with a background in arts and hopsitality.
+Hey!
 
 I'm passionate about bringing people access to what they need with robust and appealing tech. I love building user-friendly applications and solving problems with code.
 
