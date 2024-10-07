@@ -47,4 +47,4 @@ In one way or another though, I've always gravitated towards solving puzzles and
 
 Software Engineering gave me the set of tools I needed to start exploring those impulses as a career. I now work at Dentally as a Junior Support Engineer, where I'm inspired every day to contribute to the best possible experience for our users and help them deliver the best possible care to our millions of patients around the world.
 
-I love Ruby for its syntax and Rails for its conventions. JavaScript is an old (slightly sketchy) friend and Typescript is a new one that I've really been enjoying my time with.
+I love Ruby for its syntax and Rails for its conventions. JavaScript is an old (slightly sketchy) friend and Typescript is a new one I've been enjoying my time with.
